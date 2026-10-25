@@ -1,0 +1,6 @@
+@StudentRosterDbApi_HostAddress = http://localhost:5201
+
+GET {{StudentRosterDbApi_HostAddress}}/api/students/
+Accept: application/json
+
+###
